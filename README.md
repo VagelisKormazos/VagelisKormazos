@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @VagelisKormazos.
-- 👀 I'm a mathematician with a masters in IT.
+- 👀 I'm a mathematician with a master in IT.
 - 🌱 I’m currently learning Python,Java,C#,C,DB and Html.
 - 📫 How to reach me ...
