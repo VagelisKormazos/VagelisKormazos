@@ -27,9 +27,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vageliskormazos&show_icons=true&locale=en" alt="vageliskormazos" /></p>
 
-- 🎓 Bachelor's Degree in Mahs at National and Kapodistrian University of Athens 
-- 🎓 Currently studying for my Master's Degree in Informatics at University of Piraeu
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VagelisKormazos)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -64,8 +64,6 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VagelisKormazos)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VagelisKormazos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
