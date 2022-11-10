@@ -1,12 +1,7 @@
 - 👋 Hi, I’m @VagelisKormazos.
 - 🎓 Bachelor's Degree in Mahs at National and Kapodistrian University of Athens 
-- 🎓 Currently studying for my Master's Degree in Informatics at University of Piraeus
-- 🌱 I’m currently learning Python,Java,C#,C,DB and Html.
+- 🎓 Currently studying for my Master's Degree in Informatics at University of Piraeu
 
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -38,32 +33,8 @@
 ### :fire: My Stats :
 https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-VagelisKormazos&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VagelisKormazos)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-name: Latest blog post workflow
-on:
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
-  workflow_dispatch:
-
-jobs:
-  update-readme-with-blog:
-    name: Update this repos README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          max_post_count: "4"
-          feed_list: "https://dev.to/feed/itszed0"
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VagelisKormazos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
