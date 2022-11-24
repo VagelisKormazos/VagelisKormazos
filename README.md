@@ -5,13 +5,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vageliskormazos&label=Profile%20views&color=0e75b6&style=flat" alt="vageliskormazos" /> </p>
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/VagelisKormazos?tab=repositories">my profil</a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/VagelisKormazos?tab=repositories">my profile</a>.
 
-- 📫 How to reach me **kormazos.v@gmail.com**
+- 📫 How to reach me **kormazos.v@gmail.com** .
 
-- 🎓 Bachelor's Degree in <a href="https://www.math.uoa.gr">Maths at National and Kapodistrian University of Athens.</a> 
+- 🎓 Bachelor's Degree in <a href="https://www.math.uoa.gr">Maths at National and Kapodistrian University of Athens.</a> .
  
-- 🎓 Currently studying for my Master's Degree in <a href="https://www.cs.unipi.gr/index.php?lang=en">Informatics at University of Piraeus</a> 
+- 🎓 Currently studying for my Master's Degree in <a href="https://www.cs.unipi.gr/index.php?lang=en">Informatics at University of Piraeus</a> .
 
 ---
 <h3 align="left">Connect with me:</h3>
