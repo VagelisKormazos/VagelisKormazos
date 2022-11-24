@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vageliskormazos&label=Profile%20views&color=0e75b6&style=flat" alt="vageliskormazos" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/VagelisKormazos?tab=repositories](https://github.com/VagelisKormazos?tab=repositories)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/VagelisKormazos?tab=repositories> my profil</a>
 
 - 📫 How to reach me **kormazos.v@gmail.com**
 
