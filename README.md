@@ -11,7 +11,7 @@
 
 - 🎓 Bachelor's Degree in Mahs at National and Kapodistrian University of Athens 
  
-- 🎓 Currently studying for my Master's Degree in Informatics at University of Piraeus
+- 🎓 Currently studying for my Master's Degree in Informatics at University of Piraeus https://www.cs.unipi.gr/index.php?lang=en
 
 ---
 <h3 align="left">Connect with me:</h3>
