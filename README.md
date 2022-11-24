@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **kormazos.v@gmail.com**
 
-- 🎓 Bachelor's Degree in Mahs at National and Kapodistrian University of Athens 
+- 🎓 Bachelor's Degree in <a href="https://www.math.uoa.gr">Maths at National and Kapodistrian University of Athens.</a> 
  
-- 🎓 Currently studying for my Master's Degree in Informatics at <a href="https://www.cs.unipi.gr/index.php?lang=en">University of Piraeus</a> 
+- 🎓 Currently studying for my Master's Degree in <a href="https://www.cs.unipi.gr/index.php?lang=en">Informatics at University of Piraeus</a> 
 
 ---
 <h3 align="left">Connect with me:</h3>
