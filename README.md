@@ -15,7 +15,7 @@
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/evangelos kormazos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.linkedin.com/in/evangelos-kormazos-853448263" alt="evangelos kormazos" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/evangelos kormazos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evangelos kormazos" height="30" width="40" /></a>
 <a href="https://fb.com/baggelis.kormazos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="baggelis.kormazos" height="30" width="40" /></a>
 <a href="https://instagram.com/vagelis_kormazos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vagelis_kormazos" height="30" width="40" /></a>
 </p>
