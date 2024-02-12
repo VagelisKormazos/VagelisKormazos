@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Vagelis</h1>
 <h3 align="center">A passionate mathematician with love in computer Science</h3>
 
