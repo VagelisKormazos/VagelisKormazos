@@ -35,9 +35,9 @@
 ---
 
 ### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VagelisKormazos&theme=dark&background=000000)](https://git.io/streak-stats)
-
+<div align="center">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VagelisKormazos&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
 ---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vageliskormazos&show_icons=true&locale=en" alt="vageliskormazos" /></p>
